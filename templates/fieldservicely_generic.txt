@@ -1,0 +1,11 @@
+Subject: Welcome to FieldServicely
+
+[REPLACE WITH YOUR FIELDSERVICELY GENERIC WELCOME EMAIL BODY.
+Do not include a greeting - "Hi Matt," / "Hi there," is added automatically.
+
+Add links like this: [Book your onboarding call](https://example.com/onboarding)
+or paste a bare URL: https://example.com/help
+They are sent as clickable links and are always preserved in personalised emails.]
+
+Best,
+The FieldServicely Team

@@ -1,0 +1,7 @@
+Subject: Welcome to FieldTask
+
+[REPLACE WITH YOUR FIELDTASK GENERIC WELCOME EMAIL BODY.
+Do not include a greeting - "Hi there," is added automatically.]
+
+Best,
+The FieldTask Team
